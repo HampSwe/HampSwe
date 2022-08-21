@@ -8,7 +8,7 @@ My name is Hampus Serneke. I'm 20 years old and I'm currently studying Computer 
 * My main interest is data science :test_tube:
 * I love programming in general (but C# and Python are my go-to languages) :computer:
 * I have a passion for teaching coding :man_teacher:
-* In my spare time I enjoy swimming and drinking coffee with my friends :coffee:
+* In my spare time I enjoy swimming and drinking coffee with friends :coffee:
 * I also love travelling and meeting new people! :earth_americas:
 
 #### I'm currently learning
