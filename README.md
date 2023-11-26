@@ -11,10 +11,6 @@ My name is Hampus Serneke. I'm 21 years old and I'm currently studying Computer 
 * In my spare time I enjoy swimming and drinking coffee with friends :coffee:
 * I also love travelling and meeting new people! :earth_americas:
 
-#### I'm currently learning
-- Node.js and React
-- HTML and CSS
-
 ###
 
 <!--
