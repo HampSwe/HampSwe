@@ -2,7 +2,7 @@
 
 #### About me
 
-My name is Hampus Serneke. I'm 21 years old and I'm currently studying Computer Science & Engineering at Lunds Tekniska Högskola.
+My name is Hampus Serneke. I'm 22 years old and I'm currently studying Engineering Mathematics at Lunds Tekniska Högskola.
 
 #### What I :green_heart:
 * Data science is my main interest :test_tube:
