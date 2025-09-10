@@ -2,7 +2,7 @@
 
 #### About me
 
-My name is Hampus Serneke. I am currently studying Engineering Mathematics at Lunds Tekniska Högskola.
+My name is Hampus Serneke. I am currently studying Engineering Mathematics at LTH.
 
 <!--
 **HampSwe/HampSwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
