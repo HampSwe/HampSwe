@@ -2,7 +2,7 @@
 
 #### About me
 
-My name is Hampus Serneke. You can learn more about me at my [www.hampusserneke.com](https://www.hampusserneke.com)
+My name is Hampus Serneke. You can learn more about me at [www.hampusserneke.com](https://www.hampusserneke.com)
 
 <!--
 **HampSwe/HampSwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
